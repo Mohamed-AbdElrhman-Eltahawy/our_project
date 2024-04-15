@@ -1,0 +1,22 @@
+/* 
+1- order
+2- flex grow
+2- flex shrink
+3- flex basis
+4- flex
+5- align self
+*/
+
+section {
+  display: flex;
+  height: 400px;
+  justify-content: space-between;
+  background-color: red;
+}
+
+div {
+  background-color: black;
+  color: aliceblue;
+  width: 50px;
+  border: 1px solid blueviolet;
+}
